@@ -1,9 +1,9 @@
 {
-    "id": "caja2x3",
+    "id": "Caja2x3",
     "name": "caja_2x3",
     "models": [
         {
-            "id": "caja2x3",
+            "id": "Caja2x3",
             "name": "caja_2x3"
         }
     ],
@@ -16,7 +16,7 @@
     },
     "viewerContent": {
         "modelsLoaded": [
-            "caja_2x3"
+            "2x3"
         ]
     },
     "viewerState": {

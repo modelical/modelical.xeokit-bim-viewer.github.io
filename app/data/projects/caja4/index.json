@@ -1,9 +1,9 @@
 {
-    "id": "caja4",
+    "id": "Caja4",
     "name": "caja_4",
     "models": [
         {
-            "id": "caja4",
+            "id": "Caja4",
             "name": "caja_4"
         }
     ],
@@ -16,7 +16,7 @@
     },
     "viewerContent": {
         "modelsLoaded": [
-            "caja_4"
+            "4"
         ]
     },
     "viewerState": {
