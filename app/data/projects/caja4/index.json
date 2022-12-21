@@ -1,0 +1,28 @@
+{
+    "id": "caja4",
+    "name": "caja_4",
+    "models": [
+        {
+            "id": "caja4",
+            "name": "caja_4"
+        }
+    ],
+    "viewerConfigs": {
+        "backgroundColor": [
+            0.95,
+            0.95,
+            1.0
+        ]
+    },
+    "viewerContent": {
+        "modelsLoaded": [
+            "caja_4"
+        ]
+    },
+    "viewerState": {
+        "tabOpen": "objects",
+        "expandObjectsTree": 3,
+        "expandClassesTree": 1,
+        "expandStoreysTree": 1
+    }
+}
